@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for QUTMS-AMU-2021
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -244,159 +244,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LMXFRCSI
 
 [Document13]
-DocumentPath=AMU-S13-V00-BSPDShutdownRelay.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NMAACVVQ
-
-[Document14]
-DocumentPath=AMU-S15-V00-BSPDSystem.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QLBVPWZB
-
-[Document15]
-DocumentPath=AMU-S16-V00-BSPDDelay.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=15
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HBASERTK
-
-[Document16]
-DocumentPath=AMU-S17-V00-BSPDWindowComparitor.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=16
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MTRGYLRM
-
-[Document17]
-DocumentPath=AMU-S18-V00-CURRENTCurrentInterface.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=17
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ANJHGVFP
-
-[Document18]
-DocumentPath=AMU-S19-V00-CURRENT5kWSimulation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=18
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FGVYEOJS
-
-[Document19]
-DocumentPath=AMU-S20-V00-CURRENTLEMInterface.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=19
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HRWWYECJ
-
-[Document20]
-DocumentPath=AMU-S21-V00-CURRENT5kWDetection.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=20
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IVXRAPYD
-
-[Document21]
-DocumentPath=AMU-S22-V00-CURRENT5kWAlarm.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=21
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AUZAIGUB
-
-[Document22]
 DocumentPath=AMU-S23-V00-CURRENTPSU5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -413,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QHIXNYTA
 
-[Document23]
+[Document14]
 DocumentPath=AMU-S26-V00-DAUGHTERShutdown.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRXNOVVB
 
-[Document24]
+[Document15]
 DocumentPath=AMU-S27-V00-MX120G-Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -447,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LZNUOVJG
 
-[Document25]
+[Document16]
 DocumentPath=AMU-2021-P01-V00.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -464,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNEDMCQB
 
-[Document26]
+[Document17]
 DocumentPath=AMU-S06-V00-CANACC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -481,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document18]
 DocumentPath=AMU-S10-V00-AMSContactorInterface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -498,7 +345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document19]
 DocumentPath=AMU-S04-V00-Microcontroller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -515,7 +362,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document20]
 DocumentPath=AMU-S05-V00-CANMAIN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +379,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document21]
 DocumentPath=AMU-S08-V00-AMSIDCloops.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,7 +396,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document22]
 DocumentPath=AMU-S24-V00-DAUGHTERIMDConnection.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +413,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document23]
 DocumentPath=AMU-S25-V00-DAUGHTERShutdown.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -583,7 +430,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document24]
 DocumentPath=AMU-S17-V00-BSPDConnectivity.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -600,7 +447,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document25]
 DocumentPath=QUTMS-Project-AMU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -617,7 +464,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOHJAPUM
 
-[Document35]
+[Document26]
 DocumentPath=QUTMS-Project-AMU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -634,7 +481,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZEICQKCE
 
-[Document36]
+[Document27]
 DocumentPath=AMU-S26-V00-DAUGHTERShutdown.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -651,7 +498,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document28]
 DocumentPath=..\..\QUTMS-SHDN-BSPD-V00\QUTMS_RelayLibrary.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -668,7 +515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWUXDWQG
 
-[Document38]
+[Document29]
 DocumentPath=..\..\QUTMS-SHDN-BSPD-V00\QUTMS_RelayLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,7 +532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCIPLJCS
 
-[Document39]
+[Document30]
 DocumentPath=AMU-S12-V00-TSALControl.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -702,7 +549,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document31]
 DocumentPath=AMU-S27-V00-MX120G-Interface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -719,7 +566,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document32]
 DocumentPath=..\..\QUTMS_AMS\Hardware\QUTMS_STM32Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -736,7 +583,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTNRLEFG
 
-[Document42]
+[Document33]
 DocumentPath=..\..\QUTMS_AMS\Hardware\QUTMS_STM32Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -753,41 +600,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQAKGVDZ
 
-[Document43]
-DocumentPath=AMU-S28-V00-USBCProtection.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=28
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YWNXWWNR
-
-[Document44]
-DocumentPath=AMU-S28-V00-USBCProtection.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document45]
+[Document34]
 DocumentPath=..\..\..\..\..\..\Downloads\VCU-S02-V00-12VProtection.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -804,7 +617,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document35]
 DocumentPath=AMU-S02-V00-12VProtection.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +634,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document36]
 DocumentPath=QUTMS-AMU-2021.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -838,7 +651,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document37]
 DocumentPath=AMU-S29-V00-PDOCShutdownRelay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -855,7 +668,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AITXYSYJ
 
-[Document49]
+[Document38]
 DocumentPath=AMU-S30-V00-AMSMaster.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -919,7 +732,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for QUTMS-AMU-2021
 
 [OutputGroup1]
 Name=Netlist Outputs
