@@ -17,13 +17,3 @@ Record=SheetSymbol|SourceDocument=AMU-S30-V00-AMSMaster.SchDoc|Designator=Microc
 Record=SheetSymbol|SourceDocument=AMU-S10-V00-AMSContactorInterface.SchDoc|Designator=PROFET 1|SchDesignator=PROFET 1|FileName=AMU-S11-V00-AMSPROFET.SchDoc|SheetNumber=17|SymbolType=Normal|RawFileName=AMU-S11-V00-AMSPROFET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=AMU-S10-V00-AMSContactorInterface.SchDoc|Designator=PROFET 2|SchDesignator=PROFET 2|FileName=AMU-S11-V00-AMSPROFET.SchDoc|SheetNumber=17|SymbolType=Normal|RawFileName=AMU-S11-V00-AMSPROFET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=AMU-S10-V00-AMSContactorInterface.SchDoc|Designator=PROFET 3|SchDesignator=PROFET 3|FileName=AMU-S11-V00-AMSPROFET.SchDoc|SheetNumber=17|SymbolType=Normal|RawFileName=AMU-S11-V00-AMSPROFET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S13-V00-BSPDShutdownRelay.SchDoc|SheetNumber=18
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S15-V00-BSPDSystem.SchDoc|SheetNumber=19
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S16-V00-BSPDDelay.SchDoc|SheetNumber=20
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S17-V00-BSPDWindowComparitor.SchDoc|SheetNumber=21
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S18-V00-CURRENTCurrentInterface.SchDoc|SheetNumber=22
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S19-V00-CURRENT5kWSimulation.SchDoc|SheetNumber=23
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S20-V00-CURRENTLEMInterface.SchDoc|SheetNumber=24
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S21-V00-CURRENT5kWDetection.SchDoc|SheetNumber=25
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S22-V00-CURRENT5kWAlarm.SchDoc|SheetNumber=26
-Record=NoMainPathDocument|SourceDocument=AMU-S01-V00-Master.SchDoc|FileName=AMU-S28-V00-USBCProtection.SchDoc|SheetNumber=27
