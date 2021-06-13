@@ -667,7 +667,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WYTIWMFD
 
 [Document38]
 DocumentPath=Libraries\QUTMS_CrystalLibrary.PcbLib
@@ -701,7 +701,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JVMAAZUP
 
 [Document40]
 DocumentPath=Libraries\QUTMS_DiodeLibrary.PcbLib
@@ -769,7 +769,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZCEZNXQJ
 
 [Document44]
 DocumentPath=Libraries\QUTMS_IsolatorLibrary.PcbLib
@@ -803,7 +803,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YVEATMQE
 
 [Document46]
 DocumentPath=Libraries\QUTMS_JumperLibrary.PcbLib
@@ -837,7 +837,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QKGTBYVP
 
 [Document48]
 DocumentPath=Libraries\QUTMS_LEDLibrary.PcbLib
@@ -905,7 +905,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DYJMDMMB
 
 [Document52]
 DocumentPath=Libraries\QUTMS_OctocouplerLibrary.PcbLib
@@ -939,7 +939,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YMNZRAFD
 
 [Document54]
 DocumentPath=Libraries\QUTMS_PCBLibrary.PcbLib
@@ -973,7 +973,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XMFVKUQS
 
 [Document56]
 DocumentPath=Libraries\QUTMS_PowerSupplyLibrary.PcbLib
@@ -1007,7 +1007,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UMVHGHTR
 
 [Document58]
 DocumentPath=Libraries\QUTMS_STM32Library.PcbLib
@@ -1075,7 +1075,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OKNHDQJO
 
 [Document62]
 DocumentPath=Libraries\StandardCapacitors.PcbLib
@@ -1177,7 +1177,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZUGZGKQV
 
 [Document68]
 DocumentPath=Libraries\STM32F207VGT7.PcbLib
@@ -1212,6 +1212,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document70]
+DocumentPath=AMU-S31-V00-Peripherals.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DMIAUMVH
+
+[Document71]
+DocumentPath=AMU-S31-V00-Peripherals.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document72]
+DocumentPath=AMU-S32-V00-TSALControlNEW.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VZCMNVGW
 
 [Configuration1]
 Name=Sources
@@ -1367,12 +1418,42 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=XSpice Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=GP O123 Staff 15001
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1576,12 +1657,6 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Export Comments
-OutputName7=Export Comments
-OutputDocumentPath7=
-OutputVariantName7=[No Variations]
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
